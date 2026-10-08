@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+5V Pin=FB1-1
+Added Pin To Net: NetName=VBUS Pin=FB1-1
+Added Pin To Net: NetName=+5V Pin=FB1-2

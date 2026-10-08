@@ -1,0 +1,17 @@
+Name,Description,Designator,Footprint,LibRef,Quantity
+
+"1u","Capacitor SMD Generic","C1, C2, C6","CAP_0603","CAP_0603","3"
+"4u7","Capacitor SMD Generic","C3","CAP_0603","CAP_0603","1"
+"100n","Capacitor SMD Generic","C4, C5, C7, C8, C9","CAP_0603","CAP_0603","5"
+"26p","Capacitor SMD Generic","C10, C11","CAP_0603","CAP_0603","2"
+"Green LED","GREEN LED  0603","D1","DIOC1608X08N","Green LED","1"
+"cathodepin2","Blue led 0603","D2","DIOC1608X08N","BLUE LED","1"
+"120R","Generric ferrite bead 0603","FB1","Ferrite bead","FB 0603","1"
+"TSW-106-07-G-S","CONN HEADER VERT 6POS 2.54MM","j2, j3","Header 1X6","TSW-106-07-G-S","2"
+"473460001","CONN RCPT USB2.0 MICRO B SMD R/A","J1","FP-473460001-MFG","CMP-2000-05246-2","1"
+"LQW18AN27NJ8ZD","Wire Wound RF Inductor for Automotive 27nH ±5% 1200mA 0.098O 0603 (1608)","L1","FP-LQW18AN_80-MFG","CMP-06042-008987-1","1"
+"RES_0603","Reesitor SMD Generic","R1, R2, R3, R4","RESC1608X08N","RES-0603","4"
+"SolderJumper","","SB1","SolderJumper","SolderJumper","1"
+"XC206","-40?~+85?@(Ta) 1 1uA 200mA 3.3V 6V Fixed Over Current Protection Positive SOT-23-3L Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS","U1","SOT95P280X120-3N","XC206","1"
+"STM3232f103c8t6","STM32 STM32f103c8t6 MCU","U2","TSQFP50P900X900X160-48N","STM3232f103c8t6","1"
+"XTAL_AMB","CRYSTAL 8.0000MHZ 18PF SMD","X1","XTAL - AMB","XTAL-AMB","1"

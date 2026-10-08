@@ -1,0 +1,5 @@
+Added Component: Designator=R4(RESC1608X08N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part number"; Value = "RS-03L2R7JT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=R4-1
+Added Pin To Net: NetName=USB_D_N Pin=R4-2

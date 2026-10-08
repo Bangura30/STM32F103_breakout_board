@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=LED_PWR_K Pin=D1-1
+Removed Pin From Net: NetName=3V3 Pin=D1-2
+Added Component: Designator=J1(FP-473460001-MFG)
+Added Component: Designator=L1(FP-LQW18AN_80-MFG)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+5V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+3V3 Pin=C3-2
+Added Pin To Net: NetName=+3V3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+3V3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+3V3A Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+3V3A Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+3V3 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+3V3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=HSE_IN Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=HSE_OUT Pin=C11-2
+Added Pin To Net: NetName=3V3 Pin=D1-1
+Added Pin To Net: NetName=LED_PWR_K Pin=D1-2
+Added Pin To Net: NetName=LED_STAT_A Pin=D2-1
+Added Pin To Net: NetName=LED_STAT_K Pin=D2-2
+Added Pin To Net: NetName=+5V Pin=FB1-1
+Added Pin To Net: NetName=VBUS Pin=FB1-1
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=LED_PWR_K Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=BOOT0 Pin=R2-2
+Added Pin To Net: NetName=LED_STAT_K Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=+3V3 Pin=R4-1
+Added Pin To Net: NetName=USB_D_P Pin=R4-2
+Add Pin To Net: Unknown Pin: Pin SB1-13
+Add Pin To Net: Unknown Pin: Pin SB1-14
+Added Pin To Net: NetName=HSE_OUT Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-3
+Added Pin To Net: NetName=HSE_IN Pin=X1-4
